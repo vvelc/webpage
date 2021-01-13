@@ -1,0 +1,18 @@
+/*===INITIAL CONFIG===*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto, 'Open Sans', sans-serif;
+}
+
+/*===DIVS===*/
+
+.bloque {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
